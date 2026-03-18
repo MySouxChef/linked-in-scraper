@@ -1,0 +1,6 @@
+.env
+linkedin_cookies.pkl
+scrape_progress.json
+radiologists_*.csv
+__pycache__/
+*.pyc

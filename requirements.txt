@@ -1,0 +1,4 @@
+selenium>=4.15.0
+undetected-chromedriver>=3.5.4
+python-dotenv>=1.0.0
+pandas>=2.1.0
